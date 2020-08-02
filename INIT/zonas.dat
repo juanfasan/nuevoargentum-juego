@@ -307,15 +307,16 @@ Terreno=3
 Musica1=10
 Acoplar=0
 [Zona28]
-Nombre=Desierto Sur
+Nombre=Ruina de lobos
 Mapa=1
-X1=576
-Y1=894
-X2=762
-Y2=1014
+X1=0
+Y1=0
+X2=0
+Y2=0
 Segura=0
 Terreno=3
 Musica1=10
+Acoplar=0
 [Zona29]
 Nombre=Bosque Marabel
 Mapa=1
@@ -354,12 +355,13 @@ Musica1=58
 Nombre=Dungeon Dragon
 Mapa=2
 X1=112
-Y1=119
+Y1=150
 X2=182
 Y2=190
 Segura=0
 Terreno=5
 Musica1=14
+Acoplar=0
 
 [Zona33]
 Nombre=Dungeon Newbie - Oeste
@@ -1065,10 +1067,10 @@ Segura=0
 [Zona106]
 Nombre=Bosques de Arghal
 Mapa=1
-X1=599
-Y1=356
-X2=728
-Y2=417
+X1=346
+Y1=988
+X2=438
+Y2=1062
 Segura=0
 Musica1=19
 Acoplar=0
