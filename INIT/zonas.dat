@@ -1067,10 +1067,10 @@ Segura=0
 [Zona106]
 Nombre=Bosques de Arghal
 Mapa=1
-X1=346
-Y1=988
-X2=438
-Y2=1062
+X1=599
+Y1=356
+X2=728
+Y2=417
 Segura=0
 Musica1=19
 Acoplar=0
